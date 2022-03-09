@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <profile>
+    <image>https://www.benjaminjohnking.com/bjk.jpg</image>
+    <statement>Driven, self-motivated software development professional with over 15 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces. Geographically located near Akron, OH, but open to remote work for any location.</statement>
+    <links>
+      <link>
+        <title>View my profile on LinkedIn</title>
+        <url>https://www.linkedin.com/in/benjaminjking</url>
+      </link>
+      <link>
+        <title>View my activity on GitHub</title>
+        <url>https://github.com/benjaminjohnking</url>
+      </link>
+      <link>
+        <title>Contact me via email</title>
+        <url>mailto:bjk@benjaminjohnking.com</url>
+      </link>
+    </links>
+  </profile>
+  <experience>
+    <entry>
+      <company>Arcadia Healthcare Solutions</company>
+      <roles>
+        <role>
+          <title>Software Engineer / Scrum Master</title>
+          <startDate>2022-03-01</startDate>
+        </role>
+        <role>
+          <title>Engineering Manager / Tech Lead</title>
+          <startDate>2021-06-01</startDate>
+          <endDate>2022-03-01</endDate>
+        </role>
+        <role>
+          <title>Software Engineer</title>
+          <startDate>2020-09-01</startDate>
+          <endDate>2021-06-01</endDate>
+        </role>
+      </roles>
+    </entry>
+    <entry>
+      <company>Matco Tools</company>
+      <roles>
+        <role>
+          <title>Manager, Web Development</title>
+          <startDate>2016-04-01</startDate>
+          <endDate>2020-09-01</endDate>
+        </role>
+        <role>
+          <title>Senior Java Web Developer</title>
+          <startDate>2014-11-01</startDate>
+          <endDate>2016-04-01</endDate>
+        </role>
+        <role>
+          <title>Java Web Developer II</title>
+          <startDate>2012-08-01</startDate>
+          <endDate>2014-11-01</endDate>
+        </role>
+      </roles>
+    </entry>
+    <entry>
+      <company>Notify Technology</company>
+      <roles>
+        <role>
+          <title>Software Development Manager</title>
+          <startDate>2011-08-01</startDate>
+          <endDate>2012-08-01</endDate>
+        </role>
+        <role>
+          <title>Software Engineer</title>
+          <startDate>2008-01-01</startDate>
+          <endDate>2011-08-01</endDate>
+        </role>
+      </roles>
+    </entry>
+    <entry>
+      <company>Youngstown State University</company>
+      <roles>
+        <role>
+          <title>Research Assistant</title>
+          <startDate>2010-08-01</startDate>
+          <endDate>2011-08-01</endDate>
+        </role>
+        <role>
+          <title>Student Software Specialist</title>
+          <startDate>2008-04-01</startDate>
+          <endDate>2005-01-01</endDate>
+        </role>
+      </roles>
+    </entry>
+  </experience>
+  <education>
+    <entry>
+      <degree>Master</degree>
+      <program>Computing and Information Systems</program>
+      <school>Youngstown State University</school>
+      <startDate>2009-08-01</startDate>
+      <endDate>2013-05-01</endDate>
+      <gpa>4.00/4.00</gpa>
+    </entry>
+    <entry>
+      <degree>Bachelor of Science</degree>
+      <program>Computer Science</program>
+      <school>Youngstown State University</school>
+      <startDate>2004-08-01</startDate>
+      <endDate>2008-05-01</endDate>
+      <gpa>3.59/4.00</gpa>
+    </entry>
+  </education>
+  <skills>
+    <skill>Android SDK</skill>
+    <skill>Angular</skill>
+    <skill>AWS</skill>
+    <skill>HTML5/CSS3</skill>
+    <skill>iOS SDK</skill>
+    <skill>Java EE</skill>
+    <skill>JavaScript</skill>
+    <skill>Node.js</skill>
+    <skill>PhoneGap</skill>
+    <skill>React Native</skill>
+    <skill>RESTful APIs</skill>
+    <skill>SQL</skill>
+  </skills>
+</root>
