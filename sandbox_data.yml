@@ -63,16 +63,3 @@ education:
   startDate: '2004-08-01'
   endDate: '2008-05-01'
   gpa: 3.59/4.00
-skills:
-- Android SDK
-- Angular
-- AWS
-- HTML5/CSS3
-- iOS SDK
-- Java EE
-- JavaScript
-- Node.js
-- PhoneGap
-- React Native
-- RESTful APIs
-- SQL
