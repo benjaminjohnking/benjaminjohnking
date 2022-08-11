@@ -107,18 +107,4 @@
       <gpa>3.59/4.00</gpa>
     </entry>
   </education>
-  <skills>
-    <skill>Android SDK</skill>
-    <skill>Angular</skill>
-    <skill>AWS</skill>
-    <skill>HTML5/CSS3</skill>
-    <skill>iOS SDK</skill>
-    <skill>Java EE</skill>
-    <skill>JavaScript</skill>
-    <skill>Node.js</skill>
-    <skill>PhoneGap</skill>
-    <skill>React Native</skill>
-    <skill>RESTful APIs</skill>
-    <skill>SQL</skill>
-  </skills>
 </root>
