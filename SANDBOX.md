@@ -118,16 +118,3 @@ Specifications for common sandbox API projects
   }
 ]
 ```
-
-#### Skills
-
-- Method: `GET`
-- Path: `/skills`
-
-##### Schema
-
-```
-[
-  string
-]
-```
