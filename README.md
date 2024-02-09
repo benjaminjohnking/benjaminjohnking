@@ -3,4 +3,4 @@ Benjamin J. King (@benjaminjohnking)
 - Specialized in full stack development for web and mobile applications
 - Seasoned leader of development teams using Scrum and Kanban Agile frameworks
 - Top skills: Android SDK, Angular, AWS, HTML5/CSS3, iOS SDK, Java EE, JavaScript, Node.js, PhoneGap, React Native, RESTful APIs, SQL
-- Certifications: Certified ScrumMaster (CSM)
+- Certifications: AWS Certified Cloud Practitioner (CCP), Certified ScrumMaster (CSM)
