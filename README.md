@@ -1,4 +1,3 @@
-
 # Benjamin J. King (@benjaminjohnking)
 Software development professional with over 20 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces.
 
@@ -54,13 +53,6 @@ Software development professional with over 20 years of IT industry experience i
 - BlackBerry SDK
 - iOS SDK
 - React Native
-
-## Operating Systems
-- Mac OS
-- Solaris
-- Windows
-- Windows Server
-- Ubuntu
 
 ## Source Control Technologies
 - CVS
