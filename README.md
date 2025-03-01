@@ -6,6 +6,11 @@ Software development professional with over 20 years of IT industry experience i
 - Seasoned leader of development teams using Scrum and Kanban Agile frameworks
 - AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM)
 
+# CI/CD Technologies
+- CircleCI
+- GitHub Actions
+- Jenkins
+
 ## Cloud Technologies
 - Amazon Web Services
 - Firebase
