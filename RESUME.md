@@ -1,4 +1,4 @@
-# Benjamin J. King
+# Benjamin John King
 **bjking86@gmail.com | (330) 831-7462**  
 **GitHub: https://github.com/benjaminjohnking**  
 **LinkedIn: https://www.linkedin.com/in/benjaminjohnking**  
@@ -18,8 +18,8 @@ Software development professional with over 15 years of industry experience in e
 - Designed a robust CI/CD pipeline using CircleCI and Jenkins, supporting integration testing in development and customer acceptance testing in pre-production environments.
 - Contributed to the development of an automated Data Quality Assurance (DQA) system, leveraging AWS Lambda triggered by an EventBridge job to validate cross-source data integrity; anomalies were flagged and sent via alerts to a dedicated Slack channel.
 - Enhanced application observability with CloudWatch and New Relic to monitor performance, troubleshoot issues, and ensure high system reliability.
-- Collaborated cross-functionally to ensure application scalability, system security, and high availability in production.
 - Ensured compliance with HIPAA data security and privacy requirements by developing secure applications and infrastructure for managing sensitive patient health information.
+- Collaborated cross-functionally to ensure application scalability, system security, and high availability in production.
 - As Scrum Master, led agile ceremonies and facilitated communication between cross-functional teams, improving the delivery and quality of features and influencing company-wide standards for Scrum practices.
 - As Tech Lead, led the successful production launch of the Assess application, mentored and guided engineers, worked closely with architecture team through technical design processes, and collaborated with product team to ensure alignment with business goals.
 
@@ -37,6 +37,7 @@ Software development professional with over 15 years of industry experience in e
 - Implemented support tools for internal customer support teams, enabling troubleshooting of web and mobile application issues.
 - Upgraded Oracle SQL Server database instances, enhancing data management and performance for key applications.
 - Led the upgrade of IBM WebSphere Portal server for internal resources, improving accessibility for Matco tool distributors.
+- Ensured compliance with PCI DSS standards for secure handling of credit card transactions and data retention, implementing appropriate security controls across e-commerce systems.
 - Collaborated routinely with the marketing team on cross-functional e-commerce initiatives, implementing and leveraging integrations for Google Tag Manager, Google Analytics, Firebase and HubSpot for targeted email marketing, engagement monitoring and search engine optimization.
 
 ---
