@@ -40,6 +40,10 @@ Software development professional with over 20 years of IT industry experience i
 
 ## Skills
 
+### AI Technologies
+- ChatGPT
+- GitHub Copilot
+
 ### CI/CD Technologies
 - CircleCI
 - GitHub Actions
