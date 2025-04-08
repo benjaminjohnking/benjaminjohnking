@@ -6,7 +6,7 @@ Software development professional with over 20 years of IT industry experience i
 - Seasoned leader of development teams using Scrum and Kanban Agile frameworks
 - AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM)
 
-# CI/CD Technologies
+## CI/CD Technologies
 - CircleCI
 - GitHub Actions
 - Jenkins
@@ -52,6 +52,11 @@ Software development professional with over 20 years of IT industry experience i
 - Nx
 - React
 - RxJS
+
+## Messaging Technologies
+- Kafka
+- SNS
+- SQS
 
 ## Mobile Technologies
 - Apache Cordova
