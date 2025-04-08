@@ -1,5 +1,5 @@
 # Benjamin J. King (@benjaminjohnking)
-Software development professional with over 20 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces seeking cloud software architecture role.
+Software development professional with over 15 years of industry experience in e-commerce, enterprise and healthcare spaces seeking cloud software architecture role.
 
 ## Experience
 
