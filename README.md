@@ -16,7 +16,7 @@ Software development professional with over 20 years of IT industry experience i
 ### Matco Tools
 - Manager, Web Development (April 2016 - September 2020)
 - Senior Java Web Developer (November 2014 - April 2016)
-- Java Web Developer II (August 2012 - November 2014)
+- Java Web Developer II (August 2012 - November 2014) 
 
 ### Notify Technology
 - Software Development Manager (August 2011 - August 2012)
