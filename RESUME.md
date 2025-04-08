@@ -8,13 +8,14 @@ Software development professional with over 15 years of industry experience in e
 **Engineering Manager / Tech Lead** | *June 2021 – March 2022*  
 **Software Engineer** | *September 2020 – June 2021*
 
-- Delivered and maintained a containerized, cloud-native web application featuring an Angular front-end and a Node.js backend running on Docker and AWS ECS, including a message-driven document generation service using SNS and SQS for asynchronous document processing and delivery.
+- Delivered and maintained a containerized, cloud-native web application featuring an Angular front-end and a Node.js backend running on Docker and AWS ECS, including a message-driven document generation service using SNS and SQS for asynchronous document processing.
 - Built and deployed microservices using AWS technologies including ECR, S3, CloudWatch, Aurora PostgreSQL, ElastiCache, and Lambda, following infrastructure-as-code principles with Terraform and Terragrunt.
 - Streamlined and consolidated Terragrunt configurations, eliminating thousands of lines of redundant code across dozens of modules, significantly improving maintainability and onboarding speed.
 - Designed a robust CI/CD pipeline using CircleCI and Jenkins, supporting integration testing in development and customer acceptance testing in pre-production environments.
 - Contributed to the development of an automated Data Quality Assurance (DQA) system, leveraging AWS Lambda triggered by an EventBridge job to validate cross-source data integrity; anomalies were flagged and sent via alerts to a dedicated Slack channel.
 - Enhanced application observability with CloudWatch and New Relic to monitor performance, troubleshoot issues, and ensure high system reliability.
 - Collaborated cross-functionally to ensure application scalability, system security, and high availability in production.
+- Ensured compliance with HIPAA data security and privacy requirements by developing secure applications and infrastructure for managing sensitive patient health information.
 - As Scrum Master, led agile ceremonies and facilitated communication between cross-functional teams, improving the delivery and quality of features and influencing company-wide standards for Scrum practices.
 - As Tech Lead, led the successful production launch of the Assess application, mentored and guided engineers, worked closely with architecture team through technical design processes, and collaborated with product team to ensure alignment with business goals.
 
