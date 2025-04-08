@@ -34,5 +34,5 @@ Software development professional with over 20 years of IT industry experience i
 - GPA: 3.59/4.0
 
 ## Certifications
-- AWS Certified Cloud Practitioner
-- Certified ScrumMaster
+- AWS Certified Cloud Practitioner (Since February 2024)
+- Certified ScrumMaster (Since April 2022)
