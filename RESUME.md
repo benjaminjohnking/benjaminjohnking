@@ -1,10 +1,5 @@
 # Benjamin J. King (@benjaminjohnking)
-Software development professional with over 20 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces.
-
-- Specialized in full stack development for web, mobile and cloud applications
-- Proficient in Android, Angular, AWS, ChatGPT, iOS, Java, Node.js and SQL among other technologies listed below
-- Seasoned leader of development teams using Scrum and Kanban Agile frameworks
-- AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM)
+Software development professional with over 20 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces seeking role in cloud software architecture.
 
 ## Experience
 
