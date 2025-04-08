@@ -1,4 +1,8 @@
-# Benjamin J. King (@benjaminjohnking)
+# Benjamin J. King
+**bjking86@gmail.com | (330) 831-7462**
+**GitHub: https://github.com/benjaminjohnking**
+**LinkedIn: https://www.linkedin.com/in/benjaminjohnking**
+
 Software development professional with over 15 years of industry experience in e-commerce, enterprise and healthcare spaces seeking cloud software architecture role.
 
 ## Experience
