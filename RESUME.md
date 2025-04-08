@@ -36,7 +36,7 @@ Software development professional with over 20 years of IT industry experience i
 **Software Engineer** | *January 2008 – August 2011*
 
 - Led development of enterprise messaging, calendaring, and device management servers and application software for Android, iOS, and BlackBerry platforms, supporting enterprise customers with robust mobile communication tools.
-- Managed a team of mobile developers, overseeing project planning, code quality, and on-time delivery across multiple mobile operating systems.
+- Managed a team of developers, overseeing project planning, code quality, and on-time delivery across multiple mobile operating systems and mail server platforms.
 - Contributed to the development and successful launch of NotifySync, a BlackBerry client application that provided Microsoft Exchange ActiveSync support.
 - Played a key role in the full software development lifecycle, from requirements gathering to testing and deployment, ensuring compatibility and performance across mobile platforms.
 - Collaborated with QA and support teams to diagnose and resolve complex mobile interoperability issues in enterprise environments.
