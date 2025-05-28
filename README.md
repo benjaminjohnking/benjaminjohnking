@@ -7,23 +7,36 @@ Cloud-native software engineer transitioning into DevSecOps and platform enginee
 - Passionate about embedding security in the SDLC and supporting compliance in regulated environments (HIPAA, PCI)
 - AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM)
 
-## AI Technologies
+## AI
 - ChatGPT
 - GitHub Copilot
 
-## CI/CD Technologies
+## AWS
+- Aurora
+- DynamoDB
+- Elastic Compute Cloud (EC2)
+- Elastic Container Registry (ECR)
+- Elastic Container Service (ECS)
+- Elastic Kubernetes Service (EKR)
+- ElastiCache
+- Lambda
+- Simple Storage Service (S3)
+- Simple Notification Service (SNS)
+- Simple Queue Service (SQS)
+
+## CI/CD
 - CircleCI
 - GitHub Actions
 - Jenkins
 
-## Cloud Technologies
+## Cloud
 - Amazon Web Services
 - Firebase
 - Microsoft Azure
 - Terraform
 - Terragrunt
 
-## Data Technologies
+## Data
 - Elasticsearch
 - Microsoft SQL
 - MongoDB
@@ -32,13 +45,13 @@ Cloud-native software engineer transitioning into DevSecOps and platform enginee
 - PostgreSQL
 - SQLite
 
-## Digital Marketing Technologies
+## Digital Marketing
 - Google Analytics
 - Google Tag Manager
 - Hubspot
 - Stibo Systems STEP
 
-## Java Technologies
+## Java
 - Apache Ant
 - Gradle
 - IBM WebSphere Portal
@@ -47,7 +60,7 @@ Cloud-native software engineer transitioning into DevSecOps and platform enginee
 - Oracle WebLogic
 - Sonatype Nexus
 
-## JavaScript Technologies
+## JavaScript
 - Angular
 - Electron
 - JQuery
@@ -58,30 +71,36 @@ Cloud-native software engineer transitioning into DevSecOps and platform enginee
 - React
 - RxJS
 
-## Messaging Technologies
+## Messaging
 - Kafka
 - SNS
 - SQS
 
-## Mobile Technologies
+## Mobile
 - Apache Cordova
 - BlackBerry SDK
 - iOS SDK
 - React Native
 
-## Source Control Technologies
+## Source Control
 - CVS
 - Git
 - Microsoft SourceSafe
 - Subversion
 
-## Web Languages
+## Testing Automation
+- k6
+- Playwright
+
+## Web Programming
 - CSS
 - HTML
+- Java
 - JavaScript
 - JSON
 - Markdown
 - PHP
+- Python
 - TypeScript
 - XML
 - YAML
