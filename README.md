@@ -1,5 +1,5 @@
 # Benjamin J. King (@benjaminjohnking)
-Cloud-native software engineer transitioning into DevSecOps and platform engineering, with 20 years of IT experience spanning academia, e-commerce, enterprise, and healthcare.
+Cloud-native software engineer transitioning into DevSecOps, site reliability and platform engineering, with 20 years of IT experience spanning academia, e-commerce, enterprise, and healthcare.
 
 - Specializing in secure, scalable systems across AWS with Terraform, Docker, ECS, Lambda, and event-driven architectures
 - Skilled in full stack development for web, mobile, and cloud-native applications (Java, Node.js, Angular, iOS/Android)
@@ -26,8 +26,11 @@ Cloud-native software engineer transitioning into DevSecOps and platform enginee
 
 ## CI/CD
 - CircleCI
+- Dependabot
 - GitHub Actions
 - Jenkins
+- Renovate
+- Snyk
 
 ## Cloud
 - Amazon Web Services
