@@ -3,7 +3,7 @@
 **GitHub: https://github.com/benjaminjohnking**  
 **LinkedIn: https://www.linkedin.com/in/benjaminjohnking**  
 
-Software development professional with over 15 years of industry experience in e-commerce, enterprise and healthcare spaces seeking cloud software architecture role.
+Cloud-native engineer specializing in site reliability and DevOps, with 20 years of IT experience spanning academia, e-commerce, enterprise, and healthcare.
 
 ## Experience
 
