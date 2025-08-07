@@ -1,8 +1,8 @@
 # Benjamin J. King (@benjaminjohnking)
-Cloud-native engineer specializing in site reliability and DevOps, with 20 years of IT experience spanning academia, e-commerce, enterprise, and healthcare.
+Cloud-native engineer specializing in site reliability and DevOps, with 20 years of IT experience spanning academia, e-commerce, enterprise, government and healthcare.
 
-- Specializing in secure, scalable systems across AWS with Terraform, Docker, ECS, Lambda, and event-driven architectures.
-- Skilled in full stack development for web, mobile, and cloud-native applications (Java, Node.js, Angular, iOS/Android).
+- Specializing in secure, scalable systems across AWS with Terraform, Docker, ECS, Lambda and event-driven architectures.
+- Skilled in full stack development for web, mobile and cloud-native applications (Java, Node.js, Angular, iOS/Android).
 - Experienced in DevOps and site reliability practices including CI/CD, infrastructure as code, observability, automated testing and incident response.
 - Passionate about embedding security in the SDLC and supporting compliance in regulated environments (HIPAA, PCI).
 - AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM), actively pursuing AWS Certified DevOps Engineer Professional.
