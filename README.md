@@ -1,11 +1,15 @@
 # Benjamin J. King (@benjaminjohnking)
-Cloud-native engineer specializing in site reliability and DevOps, with 20 years of IT experience spanning academia, e-commerce, enterprise, government and healthcare.
+Cloud Support Engineer and site reliability practitioner with 20 years of IT experience across academia, e-commerce, enterprise, government, and healthcare.
 
-- Specializing in secure, scalable systems across AWS with Terraform, Docker, ECS, Lambda and event-driven architectures.
-- Skilled in full stack development for web, mobile and cloud-native applications (Java, Node.js, Angular, iOS/Android).
-- Experienced in DevOps and site reliability practices including CI/CD, infrastructure as code, observability, automated testing and incident response.
-- Passionate about embedding security in the SDLC and supporting compliance in regulated environments (HIPAA, PCI).
-- AWS Certified Cloud Practitioner (CCP) and Certified ScrumMaster (CSM), actively pursuing AWS Certified DevOps Engineer Professional.
+I specialize in operating, troubleshooting, and stabilizing cloud-native systems on AWS, with a strong focus on reliability, security, and incident response in regulated environments. My day-to-day work centers on diagnosing complex production issues, improving system resilience, and supporting teams during high-impact incidents.
+
+I bring hands-on experience with AWS (ECS, Lambda, event-driven architectures), Terraform, Docker, and CI/CD pipelines, along with strong observability and operational practices. I’m comfortable working deep in logs, metrics, and infrastructure as code to identify root causes and drive corrective actions.
+
+My background in full-stack development for cloud-native web and mobile applications helps me collaborate effectively with application teams, understand failure modes end-to-end, and bridge the gap between development and operations.
+
+I’m particularly interested in cloud reliability, security, and platform operations, and in embedding security and compliance into day-to-day operational workflows (HIPAA, PCI).
+
+AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps Administrator, with a longer-term focus on reliability, security, and operations-centric cloud roles.
 
 ## AI
 - ChatGPT
