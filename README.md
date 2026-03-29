@@ -16,7 +16,11 @@ AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps 
 - GitHub Copilot
 
 ## AWS
+- API Gateway
+- Athena
 - Aurora
+- CDK
+- CLI
 - DynamoDB
 - Elastic Compute Cloud (EC2)
 - Elastic Container Registry (ECR)
@@ -32,6 +36,7 @@ AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps 
 - CircleCI
 - Dependabot
 - GitHub Actions
+- GitLab
 - Jenkins
 - Renovate
 - Snyk
@@ -40,6 +45,7 @@ AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps 
 - Amazon Web Services
 - Firebase
 - Microsoft Azure
+- MuleSoft Anypoint
 - Terraform
 - Terragrunt
 
@@ -89,6 +95,10 @@ AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps 
 - iOS SDK
 - React Native
 
+## Observability
+- Grafana
+- OpenSearch Dashboard
+
 ## Source Control
 - CVS
 - Git
@@ -111,3 +121,7 @@ AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps 
 - TypeScript
 - XML
 - YAML
+
+## Workflows
+- Airflow
+- Control-M
