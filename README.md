@@ -1,15 +1,17 @@
 # Benjamin J. King (@benjaminjohnking)
-Cloud Support Engineer and site reliability practitioner with 20 years of IT experience across academia, e-commerce, enterprise, government, and healthcare.
+Platform-focused Cloud Engineer and Site Reliability practitioner with 20 years of experience across academia, e-commerce, enterprise, government, and healthcare.
 
-I specialize in operating, troubleshooting, and stabilizing cloud-native systems on AWS, with a strong focus on reliability, security, and incident response in regulated environments. My day-to-day work centers on diagnosing complex production issues, improving system resilience, and supporting teams during high-impact incidents.
+I specialize in operating and improving the reliability of cloud-native systems on AWS, working across application and infrastructure layers to ensure performance, resilience, and scalability in production environments.
 
-I bring hands-on experience with AWS (ECS, Lambda, event-driven architectures), Terraform, Docker, and CI/CD pipelines, along with strong observability and operational practices. I’m comfortable working deep in logs, metrics, and infrastructure as code to identify root causes and drive corrective actions.
+In my current role, I partner closely with development and infrastructure teams to own end-to-end system reliability—from diagnosing complex production issues to implementing improvements that reduce incident frequency and improve recovery. My work goes beyond troubleshooting to include root cause analysis, system-level improvements, and reliability-focused engineering practices.
 
-My background in full-stack development for cloud-native web and mobile applications helps me collaborate effectively with application teams, understand failure modes end-to-end, and bridge the gap between development and operations.
+I bring hands-on experience with AWS (ECS, Lambda, event-driven architectures), Terraform, Docker, and CI/CD pipelines, along with strong observability practices across logs, metrics, and tracing. I’m comfortable working deep in distributed systems to identify failure modes and drive corrective and preventative solutions.
 
-I’m particularly interested in cloud reliability, security, and platform operations, and in embedding security and compliance into day-to-day operational workflows (HIPAA, PCI).
+With a background in full-stack development, I’m able to bridge the gap between application and infrastructure concerns, enabling more effective collaboration and better system design across teams.
 
-AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps Administrator, with a longer-term focus on reliability, security, and operations-centric cloud roles.
+I have experience operating in regulated environments (HIPAA, PCI) and am particularly interested in cloud reliability, security, and platform engineering, including embedding security and compliance into day-to-day operational workflows.
+
+AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps Administrator, with a continued focus on reliability, security, and operations-driven cloud engineering.
 
 ## AI
 - ChatGPT
