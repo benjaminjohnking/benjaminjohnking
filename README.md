@@ -11,7 +11,7 @@ With a background in full-stack development, I’m able to bridge the gap betwee
 
 I have experience operating in regulated environments (HIPAA, PCI) and am particularly interested in cloud reliability, security, and platform engineering, including embedding security and compliance into day-to-day operational workflows.
 
-AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified SysOps Administrator, with a continued focus on reliability, security, and operations-driven cloud engineering.
+AWS Certified Cloud Practitioner (CCP), currently pursuing AWS Certified CloudOps Engineer, with a continued focus on reliability, security, and operations-driven cloud engineering.
 
 ## AI
 - ChatGPT
